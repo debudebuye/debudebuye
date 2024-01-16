@@ -1,4 +1,4 @@
-<p > <img src="[https://pin.it/2Gn2aXik3](https://images.app.goo.gl/NiL5HwmorRBRnHgi8)"   /> </p>
+<p > <img src="[[https://pin.it/2Gn2aXik3](https://images.app.goo.gl/NiL5HwmorRBRnHgi8)](https://images.app.goo.gl/vojPNwcyf84YKNen6)"   /> </p>
 <h1 align="center">Hi 👋, I'm Debela Haile</h1>
 <h3 align="center">I'm 4th year Computer Science student at Arba Minch University. My main focus as a developer is Node js, and I'm proficient in HTML, CSS , JavaScript , JAVA.</h3>
 image
