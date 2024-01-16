@@ -9,7 +9,7 @@ image
 
 - 🌱 I’m currently learning **mern stack**
 
-- 📝 I regularly write articles on https://debelahaileblog.blogspot.com/2024/01/actual-facts-abot-node-js-node.html
+- 📝 I regularly write articles on https://debelahaileblog.blogspot.com/
 
 - 💬 Ask me about **node js ,pug template**
 
