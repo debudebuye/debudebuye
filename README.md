@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<p align="center"> <img src="https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/"   /> </p>
 <h1 align="center">Hi 👋, I'm Debela Haile</h1>
 <h3 align="center">I'm 4th year Computer Science student at Arba Minch University. My main focus as a developer is Node js, and I'm proficient in HTML, CSS , JavaScript , JAVA.</h3>
 image
