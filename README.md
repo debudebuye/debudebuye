@@ -1,3 +1,5 @@
+<img src="https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/" alt="" srcset="">
+
 <h1 align="center">Hi 👋, I'm Debela Haile</h1>
 <h3 align="center">I'm 4th year Computer Science student at Arba Minch University. My main focus as a developer is Node js, and I'm proficient in HTML, CSS , JavaScript , JAVA.</h3>
 image
