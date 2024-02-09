@@ -16,7 +16,7 @@ image
 
 - 📫 How to reach me **debudebuye@gmail.com**
 
-- ⚡ Fun fact **me**
+//- ⚡ Fun fact **me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
