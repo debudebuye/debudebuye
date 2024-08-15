@@ -1,4 +1,4 @@
-<p > <img src="https://drive.google.com/file/d/1TiVSJDslV3UV6i49-fJ2JzOE-OzpFvAG/view?usp=sharing"   /> </p>
+<p > <img src="https://images.app.goo.gl/5UgDcjmFNZQxJ4vy6"   /> </p>
 <h1 align="center">Hi 👋, I'm Debela Haile</h1>
 <h3 align="center">I'm 4th year Computer Science student at Arba Minch University. My main focus as a developer is Node js, and I'm proficient in HTML, CSS , JavaScript , JAVA.</h3>
 image
