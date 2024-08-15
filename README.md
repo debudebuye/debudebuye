@@ -1,4 +1,4 @@
-<p > <img height ="500" width="100vw" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
+<p > <img height ="300" aligh ="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
 <h1 align="center">Hi 👋, I'm Debela Haile</h1>
 <h3 align="center">I'm 4th year Computer Science student at Arba Minch University. My main focus as a developer is Node js, and I'm proficient in HTML, CSS , JavaScript , JAVA.</h3>
 image
