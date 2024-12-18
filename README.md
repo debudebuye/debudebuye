@@ -1,6 +1,6 @@
 <p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
 <h1 align="center">Hi 👋, I'm Debela Haile</h1>
-<h3 align="center">I'm Computer Science graduate from Arba Minch University. My main focus as a developer is Node js, and I'm proficient in HTML, CSS , JavaScript , JAVA.</h3>
+<h3 align="center">I'm  graduate in Computer Science from Arba Minch University. My main focus as a developer is Node js, and I'm proficient in HTML, CSS , JavaScript , JAVA.</h3>
 image
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debudebuye&label=Profile%20views&color=0e75b6&style=flat" alt="debudebuye" /> </p>
 
