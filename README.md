@@ -35,7 +35,7 @@
 
 <p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
 
-<p >  
+<p height ="300" >  
  <a href="https://project1-link.com">
           <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   />
           <br>
