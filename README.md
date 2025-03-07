@@ -38,7 +38,7 @@
     <tr>
       <td align="center">
         <a href="https://debela-dev-nine.vercel.app">
-          <img src="https://via.placeholder.com/300" alt="Project 1" width="100%">
+          <img src="https://drive.google.com/file/d/1tuOBfdIWSx_dQhJsS71weJ73TcXbEeiT/view?usp=sharing" alt="Project 1" width="100%">
           <br>
           <strong>Project 1</strong>
         </a>
