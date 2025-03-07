@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [SMIS project](https://github.com/debudebuye/SMIS_Project.git)
 
-- 🌱 I’m currently learning **MERN stack, React.js, and React Native**
-
 - 📝 I regularly write articles on [https://debelahaileblog.blogspot.com/](https://debelahaileblog.blogspot.com/)
 
 - 💬 Ask me about **MERN stack, React.js, and React Native**
