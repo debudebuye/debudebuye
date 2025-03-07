@@ -37,21 +37,21 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://project1-link.com">
+        <a href="https://debela-dev-nine.vercel.app">
           <img src="https://via.placeholder.com/300" alt="Project 1" width="100%">
           <br>
           <strong>Project 1</strong>
         </a>
       </td>
       <td align="center">
-        <a href="https://project2-link.com">
+        <a href="https://eth-volunteer.vercel.app">
           <img src="https://via.placeholder.com/300" alt="Project 2" width="100%">
           <br>
           <strong>Project 2</strong>
         </a>
       </td>
       <td align="center">
-        <a href="https://project3-link.com">
+        <a href="https://debela-dev-nine.vercel.app">
           <img src="https://via.placeholder.com/300" alt="Project 3" width="100%">
           <br>
           <strong>Project 3</strong>
