@@ -33,8 +33,8 @@
 
 <h2 align="center">My Live Projects</h2>
 
-<p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
-<p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
+<p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p><p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
+
 
 
 
