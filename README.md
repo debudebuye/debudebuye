@@ -56,7 +56,7 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://project3-link.com">
-          <img src="https://via.placeholder.com/600x300" alt="Project 3" width="100%">
+          <img src="[Imgur](https://imgur.com/QSyQsX5)" alt="Project 3" width="100%">
           <br>
           <strong>Project 3</strong>
         </a>
