@@ -1,4 +1,4 @@
-<p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
+
 
 <h1 align="center">Hi 👋, I'm Debela Haile</h1>
 <h3 align="center">I'm a graduate in Computer Science from Arba Minch University. My main focus as a developer is Node.js, and I'm proficient in HTML, CSS, JavaScript, and JAVA.</h3>
@@ -37,7 +37,7 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://debela-dev-nine.vercel.app" target="_blank">
-          <img src="https://imgur.com/yum3XSA" alt="Project 1" width="500" height="300">
+          <img src="https://imgur.com/yum3XSA.png" alt="Project 1" width="500" height="300">
           <br>
           <strong>My portifolio</strong>
         </a>
