@@ -34,17 +34,21 @@
 <h2 align="center">My Live Projects</h2>
 
 
+<p >  
  <a href="https://project1-link.com">
-          <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Project 1" width="100%">
+          <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   />
           <br>
           <strong>Project 1</strong>
         </a>
+</p>
 
-<a href="https://project1-link.com">
-          <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Project 1" width="100%">
+<p >  
+ <a href="https://project1-link.com">
+          <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   />
           <br>
           <strong>Project 1</strong>
         </a>
+</p>
 
 <div align="center">
   <table>
