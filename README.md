@@ -39,14 +39,14 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://project1-link.com">
-          <img src="https://via.placeholder.com/600x300" alt="Project 1" width="100%">
+          <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Project 1" width="100%">
           <br>
           <strong>Project 1</strong>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://project2-link.com">
-          <img src="https://via.placeholder.com/600x300" alt="Project 2" width="100%">
+          <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Project 2" width="100%">
           <br>
           <strong>Project 2</strong>
         </a>
