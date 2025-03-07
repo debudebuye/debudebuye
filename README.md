@@ -38,7 +38,7 @@
     <tr>
       <td align="center">
         <a href="https://project1-link.com">
-          <img src="https://imgur.com/a/m5piRJX" alt="Project 1" width="100%">
+          <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Project 1" width="100%">
           <br>
           <strong>Project 1</strong>
         </a>
