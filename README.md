@@ -33,42 +33,35 @@
 
 <h2 align="center">My Live Projects</h2>
 
-<p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p><p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
-
-
-
-
 <div align="center">
-  <table>
-    <!-- First Row -->
+  <table style="width: 80%; table-layout: fixed; border-collapse: collapse;">
     <tr>
       <td align="center" width="50%">
         <a href="https://project1-link.com">
-          <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Project 1" width="100%">
+          <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Project 1" width="100%" height="200">
           <br>
           <strong>Project 1</strong>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://project2-link.com">
-          <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Project 2" width="100%">
+          <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Project 2" width="100%" height="200">
           <br>
           <strong>Project 2</strong>
         </a>
       </td>
     </tr>
-    <!-- Second Row -->
     <tr>
       <td align="center" width="50%">
         <a href="https://project3-link.com">
-          <img src="[Imgur](https://imgur.com/QSyQsX5)" alt="Project 3" width="100%">
+          <img src="https://imgur.com/QSyQsX5.png" alt="Project 3" width="100%" height="200">
           <br>
           <strong>Project 3</strong>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://project4-link.com">
-          <img src="https://via.placeholder.com/600x300" alt="Project 4" width="100%">
+          <img src="https://via.placeholder.com/600x300" alt="Project 4" width="100%" height="200">
           <br>
           <strong>Project 4</strong>
         </a>
@@ -76,3 +69,4 @@
     </tr>
   </table>
 </div>
+
