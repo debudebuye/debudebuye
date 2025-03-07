@@ -1,22 +1,21 @@
 <p > <img height ="300" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"   /> </p>
 
 <h1 align="center">Hi 👋, I'm Debela Haile</h1>
-<h3 align="center">I'm  graduate in Computer Science from Arba Minch University. My main focus as a developer is Node js, and I'm proficient in HTML, CSS , JavaScript , JAVA.</h3>
-image
+<h3 align="center">I'm a graduate in Computer Science from Arba Minch University. My main focus as a developer is Node.js, and I'm proficient in HTML, CSS, JavaScript, and JAVA.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debudebuye&label=Profile%20views&color=0e75b6&style=flat" alt="debudebuye" /> </p>
 
 <p align="left"> <a href="https://twitter.com/debuyetweet" target="blank"><img src="https://img.shields.io/twitter/follow/debuyetweet?logo=twitter&style=for-the-badge" alt="debuyetweet" /></a> </p>
 
 - 🔭 I’m currently working on [SMIS project](https://github.com/debudebuye/SMIS_Project.git)
 
-- 🌱 I’m currently learning  **mern stack ,react js and react native**  
+- 🌱 I’m currently learning **MERN stack, React.js, and React Native**
 
-- 📝 I regularly write articles on https://debelahaileblog.blogspot.com/
+- 📝 I regularly write articles on [https://debelahaileblog.blogspot.com/](https://debelahaileblog.blogspot.com/)
 
-- 💬 Ask me about **mern stack ,react js and react native**
+- 💬 Ask me about **MERN stack, React.js, and React Native**
 
 - 📫 How to reach me **debudebuye@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +30,33 @@ image
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debudebuye&show_icons=true&locale=en" alt="debudebuye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debudebuye&" alt="debudebuye" /></p>
+
+<h2 align="center">My Live Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://project1-link.com">
+          <img src="https://imgur.com/a/m5piRJX" alt="Project 1" width="100%">
+          <br>
+          <strong>Project 1</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://project2-link.com">
+          <img src="https://imgur.com/a/m5piRJX" alt="Project 2" width="100%">
+          <br>
+          <strong>Project 2</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://project3-link.com">
+          <img src="https://imgur.com/a/m5piRJX" alt="Project 3" width="100%">
+          <br>
+          <strong>Project 3</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
