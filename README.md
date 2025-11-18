@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/debuyetweet" target="blank"><img src="https://img.shields.io/twitter/follow/debuyetweet?logo=twitter&style=for-the-badge" alt="debuyetweet" /></a> </p>
 
-- 💬 Ask me about **MERN stack, React.js, and React Native**
+- 💬 Ask me about **MERN stack, React.js, and flutter**
 
 - 📫 How to reach me **debudebuye@gmail.com**
 
