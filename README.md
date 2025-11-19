@@ -50,26 +50,4 @@
 
 <br>
 
-<h2 align="center">Highlighted Projects</h2>
-<div align="center">
-  <table style="width: 80%; table-layout: fixed; border-collapse: collapse;">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://debela-dev-nine.vercel.app" target="_blank">
-          <img src="https://imgur.com/yum3XSA.png" alt="Project 1" width="500" height="300">
-          <br>
-          <strong>Portfolio Platform</strong>
-        </a>
-        <p>Next.js + NestJS + PostgreSQL. DevOps on Vercel + Docker.</p>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://role-based-ticketing-system-bice.vercel.app/" target="_blank">
-          <img src="https://imgur.com/QSyQsX5.png" alt="Project 2" width="500" height="300">
-          <br>
-          <strong>Role-Based Ticket System</strong>
-        </a>
-        <p>Microservice backend (Node/Nest), Redis queues, Flutter admin client.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+
