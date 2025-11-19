@@ -23,7 +23,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debuyetweet" height="30" width="40" />
   </a>
   <a href="https://t.me/crypto_Seller_man" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="crypto_Seller_man" height="30" width="40" />
+    <img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="crypto_Seller_man" height="30" width="40" />
   </a>
 </p>
 
