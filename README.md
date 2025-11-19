@@ -15,7 +15,7 @@
 - 💬 Ask me about `API architecture`, `microservices`, `DevOps`, `MERN stack`, and `Flutter`.
 - 🧪 Love solving data-intensive problems with `MongoDB`, `PostgreSQL`, and real-time queues.
 - 📱 Shipping cross-platform mobile apps with `Flutter`, Firebase, and clean architecture.
-- 📫 Reach me at **debudebuye@gmail.com**.
+- 📫 Reach me at **debiansilase@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
