@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debela Haile</h1>
+<h1 align="center">Hi 👋, I'm Debela Haile Silase</h1>
 <h3 align="center">Backend-focused full-stack engineer | Flutter enthusiast</h3>
 
 <p align="left">
