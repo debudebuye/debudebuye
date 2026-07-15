@@ -41,17 +41,6 @@ focus on performance, reliability, and clean architecture.
 
 ---
 
-### GitHub Analytics
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=debudebuye&show_icons=true&locale=en&theme=default" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=debudebuye&theme=default" alt="GitHub Streak" /></td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <i>Let's connect - always open to discussing new ideas and collaboration.</i>
 </div>
