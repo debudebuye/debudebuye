@@ -1,53 +1,59 @@
-<h1 align="center">Hi 👋, I'm Debela Haile Silase</h1>
-<h3 align="center">Backend-focused full-stack engineer | Flutter enthusiast</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=debudebuye&label=Profile%20views&color=0e75b6&style=flat" alt="debudebuye" />
-</p>
+# Debela Haile Silase
 
-<p align="left">
-  <a href="https://twitter.com/debuyetweet" target="blank">
-    <img src="https://img.shields.io/twitter/follow/debuyetweet?logo=twitter&style=for-the-badge" alt="debuyetweet" />
-  </a>
-</p>
+**Backend-Focused Full-Stack Engineer | Flutter Enthusiast**
 
-- 🔭 Currently building distributed services with `Node.js`, `NestJS`, and `Go`, plus Flutter front ends.
-- 💬 Ask me about `API architecture`, `microservices`, `DevOps`, `MERN stack`, and `Flutter`.
-- 🧪 Love solving data-intensive problems with `MongoDB`, `PostgreSQL`, and real-time queues.
-- 📱 Shipping cross-platform mobile apps with `Flutter`, Firebase, and clean architecture.
-- 📫 Reach me at **debiansilase@gmail.com**.
+[![Twitter](https://img.shields.io/twitter/follow/debuyetweet?style=social)](https://twitter.com/debuyetweet)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/crypto_Seller_man)
+[![Email](https://img.shields.io/badge/Email-debiansilase%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:debiansilase@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=debudebuye&color=0e75b6&style=flat)](https://github.com/debudebuye)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/debuyetweet" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debuyetweet" height="30" width="40" />
-  </a>
-  <a href="https://t.me/crypto_Seller_man" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="crypto_Seller_man" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-</p>
+### About
 
-<!-- <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=debudebuye&show_icons=true&locale=en" alt="debudebuye" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debudebuye&" alt="debudebuye" />
- </div>   -->
+Backend-focused developer building distributed services and cross-platform mobile apps. 
+Experienced in designing APIs, microservices, and data-intensive systems with a strong 
+focus on performance, reliability, and clean architecture.
 
-<br> 
+---
 
+### Tech Stack
 
+**Languages & Frameworks**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases & Infrastructure**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### GitHub Analytics
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=debudebuye&show_icons=true&locale=en&theme=default" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=debudebuye&theme=default" alt="GitHub Streak" /></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <i>Let's connect - always open to discussing new ideas and collaboration.</i>
+</div>
+
+</div>
