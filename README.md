@@ -5,7 +5,7 @@
 **Backend-Focused Full-Stack Engineer | Flutter Enthusiast**
 
 [![Twitter](https://img.shields.io/twitter/follow/debuyetweet?style=social)](https://twitter.com/debuyetweet)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/crypto_Seller_man)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/dev_deba)
 [![Email](https://img.shields.io/badge/Email-debiansilase%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:debiansilase@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=debudebuye&color=0e75b6&style=flat)](https://github.com/debudebuye)
 
